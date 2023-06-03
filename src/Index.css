@@ -1,0 +1,71 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-image: url("https://media.istockphoto.com/vectors/black-and-white-horseshoes-seamless-vector-id1051103884?k=6&m=1051103884&s=170667a&w=0&h=4HIOCu3oayYbbegz1CPovcy9BJFh8LmO1tJv095GLVk=");
+    background-size: 30%;
+}
+
+h1, h3 {
+    color: rgb(126, 61, 88);
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+.box-shadow-md {
+    box-shadow: 5px 5px 10px black;
+    margin: 1em;
+    padding: 1em;
+    background-color: rgb(179, 176, 176);
+    width: 95%;
+}
+
+.box-shadow {
+    box-shadow: 5px 5px 10px black;
+    margin: 1em;
+    padding: 1em;
+    background-color: rgb(179, 176, 176);
+    width: 45%;
+}
+
+.text-color {
+    color: rgb(126, 61, 88);
+}
+
+.button-color {
+    background-color:rgb(126, 61, 88);
+}
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.form-container {
+    margin-top: 2rem;
+    padding: 2rem;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.home-image {
+    height: 600px;
+    width: 900px;
+}
+
+.navbar-bottom {
+    height: 50px;
+}
+
+.button-size {
+    height: 40px;
+    width: 100px;
+}
+
+
+
+
+
